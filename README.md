@@ -15,3 +15,5 @@
           
 
   </div>
+  
+![snake gif](https://github.com/roggermds/roggermds/blob/output/github-contribution-grid-snake.gif)
