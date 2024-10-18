@@ -12,8 +12,11 @@
   <img align="center"  alt="rogger-aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
     <img align="center"  alt="rogger-aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
        <img align="center"  alt="rogger-aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+           <img align="center"  alt="rogger-aws" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
           
 
   </div>
-  
-![snake gif](https://github.com/roggermds/roggermds/blob/output/github-snake-dark.gif)
+<div>
+ 
+ ![snake gif](https://github.com/roggermds/roggermds/blob/output/github-snake-dark.gif)
+</div>  
