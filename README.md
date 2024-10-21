@@ -21,5 +21,6 @@
   </div>
 <div>
  
- ![snake gif](https://github.com/roggermds/roggermds/blob/output/github-snake-dark.gif)
+ ![snake gif](https://github.com/Ebondeath/Ebondeath/blob/output/github-snake-dark.svg)
+
 </div>  
